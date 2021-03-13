@@ -23,7 +23,7 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
    ## Atelier III : 16 mars 2021 (13h - 16h)
  * Résolution des équations différentielles (ODE)
  * Exercices
- ## Atelier III : 16 mars 2021 (9h - 12h)
+ ## Atelier IV : 17 mars 2021 (9h - 12h)
  * Simulation d'expériences d'optique ondulatoire
  * Exercice
  
