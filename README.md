@@ -9,21 +9,21 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
     * Calculs formels 
     * Générer des documents (Livre, articles, présentations, ...) en intégrant du texte, des images, du code interprétable
   
- # Programme
- ## Atelier I : 15 mars 2021 (13h - 16h)
- * Installation de l'environnement de progrmmation Anaconda
- * Implémentation des premier codes Python (Spyder)
- * Introduction aux librairies scientifiques (Numpy et Matplotlib)
- * Exercices : Mnipulation de données et représentation graphique
+# Programme
+## Atelier I : 15 mars 2021 (13h - 16h)
+* Installation de l'environnement de progrmmation Anaconda
+* Implémentation des premier codes Python (Spyder)
+* Introduction aux librairies scientifiques (Numpy et Matplotlib)
+* Exercices : Mnipulation de données et représentation graphique
  
-  ## Atelier II : 16 mars 2021 (9h - 12h)
-  * Integration numérique
-  * Exercices
- 
-   ## Atelier III : 16 mars 2021 (13h - 16h)
- * Résolution des équations différentielles (ODE)
- * Exercices
- ## Atelier IV : 17 mars 2021 (9h - 12h)
- * Simulation d'expériences d'optique ondulatoire
- * Exercice
- 
+## Atelier II : 16 mars 2021 (9h - 12h)
+* Integration numérique
+* Exercices
+
+## Atelier III : 16 mars 2021 (13h - 16h)
+* Résolution des équations différentielles (ODE)
+* Exercices
+## Atelier IV : 17 mars 2021 (9h - 12h)
+* Simulation d'expériences d'optique ondulatoire
+* Exercices
+
