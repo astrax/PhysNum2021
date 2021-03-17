@@ -4,17 +4,17 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 
   
 # Programme
-## Atelier I : 15 mars 2021 (13h - 16h)
+## Atelier I : 15 mars 2021
 * Installation de l'environnement de progrmmation Anaconda
 * Implémentation des premier codes Python (Spyder)
 * Introduction aux librairies scientifiques (Numpy et Matplotlib)
 * Exercices
  
-## Atelier II : 16 mars 2021 (9h - 12h)
+## Atelier II : 16 mars 2021
 * Integration numérique
 * Exercices
 
-## Atelier III : 17 mars 2021 (9h - 12h)
+## Atelier III : 17 mars 2021
 * Simulation d'expériences d'optique ondulatoire
 * Exercices
 
