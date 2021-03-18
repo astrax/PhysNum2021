@@ -19,8 +19,8 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 2. Institut Préparatoire aux Études Scientifiques et Techniques, Université de Carthage.
 
 # Programme
-* [Présentation d'ouverture](https://github.com/astrax/PhysNum2021/blob/main/presentations/Ecole_PhysNum_21.pdf)
-* [Presentation des ateliers](https://github.com/astrax/PhysNum2021/blob/main/presentations/main.pdf)
+* [Présentation d'ouverture](https://astrax.github.io/PhysNum2021/presentations/Ecole_PhysNum_21.pdf)
+* [Presentation des ateliers](https://astrax.github.io/PhysNum2021/presentations/main.pdf)
 
 ## Atelier I : 15 mars 2021
 
