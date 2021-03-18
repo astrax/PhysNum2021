@@ -13,22 +13,37 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 
 * Prof. Hassen Ghalila (1)
 * Dr. Ahmed Ammar (1,2)
-* Dr. Fehmi Khadri (1)
+* Dr. Fahmi Khadri (1)
 
 1. Faculé des Sciences de Tunis, Université de Tunis El Manar.
 2. Institut Préparatoire aux Études Scientifiques et Techniques, Université de Carthage.
+
 # Programme
+* [Présentation d'ouverture]: https://github.com/astrax/PhysNum2021/blob/main/presentations/Ecole_PhysNum_21.pdf
+* [Presentation des ateliers]: https://github.com/astrax/PhysNum2021/blob/main/presentations/main.pdf
+
 ## Atelier I : 15 mars 2021
+
 * Installation de l'environnement de progrmmation Anaconda
 * Implémentation des premier codes Python (Spyder)
 * Introduction aux librairies scientifiques (Numpy et Matplotlib)
-* Exercices
- 
+* Exercice
+
+**Scripts :** [J1_ProjetPi]: https://github.com/astrax/PhysNum2021/tree/main/J1_ProjetPi
+
 ## Atelier II : 16 mars 2021
+
 * Integration numérique
 * Exercices
 
+**Scripts :** [J2_ProjetIntegral]: https://github.com/astrax/PhysNum2021/tree/main/J2_ProjetIntegral
+
+**Notebook :** [Débuter avec les notebooks Python]: https://colab.research.google.com/github/astrax/PhysNum2021/blob/main/J2_Notebook_sinc/ProjetSinc.ipynb
+
 ## Atelier III : 17 mars 2021
+
 * Simulation d'expériences d'optique ondulatoire
 * Exercices
+
+**Notebook :** [Un aperçu sur l'utilisation de Python pour simuler des expériences de physique] : https://colab.research.google.com/github/astrax/PhysNum2021/blob/main/J3_ProjetOptique/optique.ipynb
 
