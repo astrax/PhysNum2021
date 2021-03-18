@@ -30,15 +30,15 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 ## Atelier I : 15 mars 2021
 
 * Installation de l'environnement de progrmmation Anaconda
-* Implémentation des premier codes Python (Spyder)
+* Implémentation des premiers codes Python (Spyder)
 * Introduction aux librairies scientifiques (Numpy et Matplotlib)
-* Exercice
+* Exercices
 
 **Scripts :** [J1_ProjetPi](https://github.com/astrax/PhysNum2021/tree/main/J1_ProjetPi)
 
 ## Atelier II : 16 mars 2021
 
-* Integration numérique
+* Intégration numérique
 * Exercices
 
 **Scripts :** [J2_ProjetIntegral](https://github.com/astrax/PhysNum2021/tree/main/J2_ProjetIntegral)
