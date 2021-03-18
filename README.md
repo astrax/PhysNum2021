@@ -2,6 +2,8 @@
 
 Cette formation a pour but l'initiation: des étudiants en mastère, des doctorants et éventuellement des enseignants, à l'utilisation de Python pour apprendre à développer des codes interfacés et adaptés à leurs projets d'étude. 
 
+<center><h4>Société Tunisienne de Physique ; 15-16-17  mars 2021</h4></center>
+<center><h4>Faculté des Siciences de Tunis</h4></center>
  <center>
  <img src="logo_python.png" width="200"
      height="100">
