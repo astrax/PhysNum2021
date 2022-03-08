@@ -18,7 +18,7 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 
 * Prof. Hassen Ghalila (1)
 * Dr. Ahmed Ammar (1,2)
-* Dr. Fahmi Khadri (1)
+* Dr. Fehmi Khadri (1)
 
 1. Faculé des Sciences de Tunis, Université de Tunis El Manar.
 2. Institut Préparatoire aux Études Scientifiques et Techniques, Université de Carthage.
